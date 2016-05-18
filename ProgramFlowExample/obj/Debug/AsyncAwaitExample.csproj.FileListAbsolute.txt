@@ -1,6 +1,0 @@
-C:\MessageHub\U4MessagingPy\AsyncAwaitExample\bin\Debug\AsyncAwaitExample.exe.config
-C:\MessageHub\U4MessagingPy\AsyncAwaitExample\bin\Debug\AsyncAwaitExample.exe
-C:\MessageHub\U4MessagingPy\AsyncAwaitExample\bin\Debug\AsyncAwaitExample.pdb
-C:\MessageHub\U4MessagingPy\AsyncAwaitExample\obj\Debug\AsyncAwaitExample.csprojResolveAssemblyReference.cache
-C:\MessageHub\U4MessagingPy\AsyncAwaitExample\obj\Debug\AsyncAwaitExample.exe
-C:\MessageHub\U4MessagingPy\AsyncAwaitExample\obj\Debug\AsyncAwaitExample.pdb
