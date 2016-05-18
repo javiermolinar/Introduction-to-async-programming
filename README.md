@@ -29,11 +29,11 @@ async/await
 
 +Pros
   
-  *Easy syntax
+*Easy syntax
   
   *Allows update UI thread
 
 +Cons
 
-   *More overhead tan sync methods
+ *More overhead tan sync methods
 
