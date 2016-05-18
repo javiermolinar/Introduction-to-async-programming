@@ -23,13 +23,17 @@ Some examples
 
 async/await
 --------------------
-Highlights
-	*Syntax sugar for invoking and chaining Tasks.
+###Highlights###
 
-Pros
+* Syntax sugar for invoking and chaining Tasks.
+
++Pros
+  
   *Easy syntax
+  
   *Allows update UI thread
 
-Cons
-	*More overhead tan sync methods
++Cons
+
+   *More overhead tan sync methods
 
